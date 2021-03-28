@@ -1,0 +1,6 @@
+framework module Pods_trussApp_trussAppUITests {
+  umbrella header "Pods-trussApp-trussAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

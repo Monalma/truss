@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.4.1)
+  - AlamofireImage (4.1.0):
+    - Alamofire (~> 5.1)
+  - DropDown (2.3.13)
+  - SPAlert (3.0.4)
+
+DEPENDENCIES:
+  - AlamofireImage
+  - DropDown
+  - SPAlert
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - DropDown
+    - SPAlert
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  AlamofireImage: c4a2ba349885fb3064feb74d2e547bd42ce9be10
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  SPAlert: c0e450329878af5c9de96eeae3415fc0736a0095
+
+PODFILE CHECKSUM: 2ef3270f821c0c1c87a66f97d99e5d7b2dab2f30
+
+COCOAPODS: 1.10.1

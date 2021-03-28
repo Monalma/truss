@@ -1,0 +1,6 @@
+framework module Pods_trussApp {
+  umbrella header "Pods-trussApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
